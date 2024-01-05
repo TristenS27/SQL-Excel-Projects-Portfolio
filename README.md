@@ -3,6 +3,6 @@ This repository provides a sample of data analysis work I've completed using SQL
 
 | Project Name  | Description | Topic |
 | ------------- | ------------- | ------------- |
-| Explore Weather Trends | Parsing and manipulating the Global vs Virginia Beach Temperature data from 1750 to 2010  | Data importing, manipulation, and cleaning data using Excel and SQL |
+| [Explore Weather Trends](https://github.com/TristenS27/SQL-Excel-Projects-Portfolio/tree/main/Explore_Weather_Trends) | Parsing and manipulating the Global vs Virginia Beach Temperature data from 1750 to 2010  | Data importing, manipulation, and cleaning data using Excel and SQL |
 |   |   |  |
 |   |   |  |
