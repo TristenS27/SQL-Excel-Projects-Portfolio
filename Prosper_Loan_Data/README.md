@@ -10,3 +10,4 @@ We are trying to track loan book performance by looking at the disbursements, am
 - **EstimatedLoss**: Estimated loss is the estimated principal loss on charge-offs. Applicable for loans originated after July 2009.
 3. Performed aggregation analysis, GROUP BY, and ORDER BY
 4. Visualized the cleaned dataset (ProserLoanDataCleaned.csv) in Tableau Public 
+https://www.kaggle.com/datasets/nurudeenabdulsalaam/prosper-loan-dataset
