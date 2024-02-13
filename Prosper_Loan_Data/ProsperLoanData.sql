@@ -2,7 +2,8 @@
 -- *Disbursements, amount paid MOM, returns, debt to income ratio, loss rate
 
 -- *Change date origination date column from text to date datatype. Comment out after done
-ALTER TABLE prosper_loan_data.prosperloandata MODIFY LoanOriginationDate date
+ALTER TABLE prosper_loan_data.prosperloandata 
+MODIFY LoanOriginationDate date;
 
 SELECT 
 	-- LoanOriginationDate,
