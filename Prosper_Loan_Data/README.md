@@ -5,8 +5,8 @@ We are trying to track loan book performance by looking at the disbursements, am
 2. Selected the LoanOriginalAmount, LP_CustomerPayments, EstimatedReturn, DebtToIncomeRatio, and EstimatedLoss from the prosperloandata
 3. Performed aggregation analysis, GROUP BY, and ORDER BY
 4. Visualized the cleaned dataset (ProserLoanDataCleaned.csv) in Tableau Public
-   a. Disbursements: The origination amount of the loan.
-   b. LP_CustomerPayments: Pre charge-off cumulative gross payments made by the borrower on the loan. If the loan has charged off, this value will exclude any recoveries.
-   c. EstimatedReturn: Estimated return is the difference between the Estimated Effective Yield and the Estimated Loss Rate. Applicable for loans originated after July 2009.
-   d. DebtToIncomeRatio: The debt to income ratio of the borrower at the time the credit profile was pulled. This value is Null if the debt to income ratio is not available.
-   e. EstimatedLoss: Estimated loss is the estimated principal loss on charge-offs. Applicable for loans originated after July 2009.
+- Disbursements: The origination amount of the loan.
+- LP_CustomerPayments: Pre charge-off cumulative gross payments made by the borrower on the loan. If the loan has charged off, this value will exclude any recoveries.
+- EstimatedReturn: Estimated return is the difference between the Estimated Effective Yield and the Estimated Loss Rate. Applicable for loans originated after July 2009.
+- DebtToIncomeRatio: The debt to income ratio of the borrower at the time the credit profile was pulled. This value is Null if the debt to income ratio is not available.
+- EstimatedLoss: Estimated loss is the estimated principal loss on charge-offs. Applicable for loans originated after July 2009.
